@@ -13,7 +13,7 @@ export function LocationsSection() {
       name: "Centro Óptico Olhos nos Olhos",
       address: "Prédio Solar de Alvalade, ao lado da OMA",
       schedule: "Segundas e quintas, 8:00–12:30",
-      description: "Especializado em óptica e lentes de contacto",
+      description: "Especializado em óptica e lentes",
     },
     {
       name: "Clínica Cardiozono",
