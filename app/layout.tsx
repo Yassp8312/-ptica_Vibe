@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: "Dr. Victor Mario Delis - Vivere | Optometría, Oftalmología y Óptica",
   description:
     "Cuidamos de tu visión con calidad, confianza y cercanía. Servicios profesionales de optometría, oftalmología y óptica en Angola.",
-  generator: "v0.app",
+  generator: "Yassper",
 }
 
 export default function RootLayout({
